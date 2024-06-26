@@ -1,3 +1,3 @@
 Regression-Based Law of Energy Efficiency in
 Wireless Sensor Networks
-Brigato, M. ∗ Ferreira, A. A. ∗∗ Avila, A. R. ∗∗∗ Prado, F. 0. C. ∗∗∗∗
+A. R. ∗∗∗ Prado, Brigato, M. ∗ Ferreira, A. A. ∗∗ Avila,  F. 0. C. ∗∗∗∗
