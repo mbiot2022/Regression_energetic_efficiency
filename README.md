@@ -19,10 +19,5 @@ These functions are based on the code in `Transmitted_Power.ipynb` and reproduce
 ### Regression_Analysis.ipynb
 Use the `Regression_Analysis.ipynb` notebook to understand how the regression results and plots used in the paper were obtained.
 
-## Getting Started
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<meurepositorio>.git
 
 
