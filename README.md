@@ -17,7 +17,7 @@ The `power.py` file includes two functions:
 These functions are based on the code in `Transmitted_Power.ipynb` and reproduce the same results.
 
 ### Regression_Analysis.ipynb
-Use the `Regression_Analysis.ipynb` notebook to understand how the regression results and plots used in the paper were obtained.
+Use the `Regression_Analysis.ipynb` notebook to understand how the regression results and plots used in the paper were obtaine
 
 ## Getting Started
 
