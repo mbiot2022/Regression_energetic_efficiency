@@ -7,7 +7,7 @@ This repository contains the code to reproduce the results of the paper "Regress
 ## Notebooks and Scripts
 
 ### Transmitted_Power.ipynb
-Use the `Transmitted_Power.ipynb` notebook to understand how all transmitted powers used in the subsequent regression analysis were obtained.
+Use the `Transmitted_Power.ipynb` notebook to understand how all transmitted powers used in the subsequent regression analysis were obtained. Here you find the first two plots of the paper. 
 
 ### power.py
 The `power.py` file includes two functions:
@@ -23,6 +23,6 @@ Use the `Regression_Analysis.ipynb` notebook to understand how the regression re
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<meurepositorio>.git
+   git clone https://github.com/mbiot2022/Regression_energetic_efficiency.git
 
 
