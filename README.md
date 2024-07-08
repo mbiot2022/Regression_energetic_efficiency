@@ -21,7 +21,7 @@ Use the `Regression_Analysis.ipynb` notebook to understand how the regression re
 
 ## Getting Started
 
-1. Clone this repository:
+1. To run all codes properly we recommend to clone this repository:
    ```bash
    git clone https://github.com/mbiot2022/Regression_energetic_efficiency.git
 
